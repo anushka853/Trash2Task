@@ -87,10 +87,15 @@ Real-time performance metrics, resolution trends, and city health insights — p
 🔧 Backend
 
 🟢 Node.js + Express.js — Robust REST API
+
 🔐 JWT Authentication — Secure, role-based access (citizen / worker / admin)
+
 📤 Multer — Seamless image uploads
+
 🔔 Notification Engine — Instant real-time alerts
+
 📡 GPS Tracking Service — Live worker location updates
+
 
 🗄️ Database
 
@@ -148,11 +153,17 @@ npm run dev
 🛣️ What's Next
 
 🔔 Full push notification system (mobile + web)
+
 🌐 Expanding language support: Hindi, Tamil, Telugu, Marathi & more
+
 📱 Native mobile app (React Native)
+
 🏛️ Direct integration with municipal government systems
+
 📶 Offline-first reporting for low-connectivity regions
+
 🎖️ Seasonal & city-wide leaderboard competitions
+
 📡 AI-driven GPS route optimization for field teams
 
 ⸻
