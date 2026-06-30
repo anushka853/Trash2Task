@@ -33,14 +33,19 @@ Citizens, workers, and admins stay in sync with instant in-app alerts at every s
 
 🛠️ Powerful Admin Command Center
 A centralized dashboard giving municipal authorities full visibility and control — monitor, verify, assign, and resolve, all from one place.
+
 👥 Interactive Citizen Dashboard
 A personalized space where users track their reports, watch their rank climb, see nearby issues, and feel the pulse of their community.
+
 📊 Live Citizen Ranking System
 Every report fuels your rank. Quality, accuracy, and consistency push citizens up a real-time, city-wide leaderboard — turning civic duty into friendly competition.
+
 👷 Smart Worker Task Assignment + GPS Tracking
 Tasks are dispatched to field workers in real time, with live GPS tracking — so admins and citizens can literally watch resolution happen.
+
 📍 End-to-End Live Issue Tracking
 From the moment it's reported to the moment it's resolved — full transparency, zero black boxes.
+
 🗺️ Interactive Live Map
 A real-time geographic view of every reported issue and every worker on the move — civic action, visualized.
 
@@ -118,19 +123,23 @@ A Google Gemini API key
 1️⃣ Clone the repository
 git clone https://github.com/anushka853/Trash2Task.git
 cd Trash2Task
+
 2️⃣ Backend Setup
 cd backend
 npm install
+
 Create a .env file inside backend/:
 PORT=5000
 MONGODB_URI=your_mongodb_connection_string
 JWT_SECRET=your_jwt_secret
 GEMINI_API_KEY=your_google_gemini_api_key
 npm start
+
 3️⃣ Frontend Setup
 cd frontend
 npm install
 npm run dev
+
 🌐 Runs on http://localhost:5173 by default, connected live to the backend API.
 ⸻
 🌍 Experience It Live
