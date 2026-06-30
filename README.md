@@ -9,19 +9,28 @@
 ⸻
 🌆 The Problem
 Every day, citizens witness civic issues — overflowing garbage, broken roads, dark streets, flooded lanes — but have no fast, trusted way to report them. Complaints get lost in phone calls and paperwork. Authorities lack real-time visibility. Resolution takes weeks. Civic trust erodes.
+
+
 💡 The Solution
 CivicPulse AI turns every citizen into a civic sensor. Snap a photo, let AI detect and categorize the issue instantly, and watch it flow seamlessly from report → verification → task assignment → live resolution — all tracked, all transparent, all gamified to keep people engaged.
+
+
 This isn't just a complaint app. It's a civic engagement engine — built to make reporting effortless, resolution fast, and participation addictive.
 🚀 Built as a Hackathon Project, engineered with a real-world vision: cleaner, smarter, more responsive cities — powered by AI and community action.
 ⸻
 ✨ Features That Set It Apart
+
 🤖 AI-Powered Smart Reporting
+
 Snap a photo. Google Gemini AI instantly detects, classifies, and routes the issue — no manual forms, no friction.
 🏷️ Intelligent Auto-Categorization
+
 Garbage, potholes, streetlights, waterlogging — every issue auto-sorted for the right team, instantly.
 🔔 Real-Time Alerts & Notifications
 Citizens, workers, and admins stay in sync with instant in-app alerts at every stage — verified, assigned, in-progress, resolved. Nobody is left guessing.
+
 🌐 Multi-Language Support — Real-time translation so citizens can report in their native language (e.g., Hindi ↔ English) while the AI/ML pipeline standardizes it for admins
+
 🛠️ Powerful Admin Command Center
 A centralized dashboard giving municipal authorities full visibility and control — monitor, verify, assign, and resolve, all from one place.
 👥 Interactive Citizen Dashboard
