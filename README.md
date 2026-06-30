@@ -43,8 +43,10 @@ Tasks are dispatched to field workers in real time, with live GPS tracking — s
 From the moment it's reported to the moment it's resolved — full transparency, zero black boxes.
 🗺️ Interactive Live Map
 A real-time geographic view of every reported issue and every worker on the move — civic action, visualized.
+
 🏆 Gamified XP & Rewards System
 Every verified report earns XP. Every citizen levels up. Civic responsibility, rewarded.
+
 🎖️ Achievement Badges That Drive Participation
 A full badge system designed to keep citizens engaged long-term:
 
@@ -57,17 +59,24 @@ A full badge system designed to keep citizens engaged long-term:
 
 🌐 Built for Bharat — Multi-Language Access
 Available in English and Kannada, architected to scale across India's regional languages — because civic power belongs to everyone, not just the English-speaking few.
+
 📊 City-Wide Analytics Dashboard
 Real-time performance metrics, resolution trends, and city health insights — powered by Chart.js, built for decision-makers.
 ⸻
 🧱 Tech Stack — Engineered for Speed & Scale
+
 💻 Frontend
 
 ⚛️ React.js — Fast, component-driven UI
+
 ⚡ Vite — Lightning-fast builds
+
 🧭 React Router — Seamless navigation
+
 🗺️ Leaflet — Live maps & GPS visualization
+
 📊 Chart.js — Real-time analytics
+
 🌐 i18n (planned) — English & Kannada, expanding further
 
 🔧 Backend
