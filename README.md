@@ -13,19 +13,20 @@ Every day, citizens witness civic issues — overflowing garbage, broken roads, 
 
 💡 The Solution
 CivicPulse AI turns every citizen into a civic sensor. Snap a photo, let AI detect and categorize the issue instantly, and watch it flow seamlessly from report → verification → task assignment → live resolution — all tracked, all transparent, all gamified to keep people engaged.
-
-
 This isn't just a complaint app. It's a civic engagement engine — built to make reporting effortless, resolution fast, and participation addictive.
+
+
 🚀 Built as a Hackathon Project, engineered with a real-world vision: cleaner, smarter, more responsive cities — powered by AI and community action.
 ⸻
+
 ✨ Features That Set It Apart
 
 🤖 AI-Powered Smart Reporting
-
 Snap a photo. Google Gemini AI instantly detects, classifies, and routes the issue — no manual forms, no friction.
-🏷️ Intelligent Auto-Categorization
 
+🏷️ Intelligent Auto-Categorization
 Garbage, potholes, streetlights, waterlogging — every issue auto-sorted for the right team, instantly.
+
 🔔 Real-Time Alerts & Notifications
 Citizens, workers, and admins stay in sync with instant in-app alerts at every stage — verified, assigned, in-progress, resolved. Nobody is left guessing.
 
@@ -56,10 +57,15 @@ Every verified report earns XP. Every citizen levels up. Civic responsibility, r
 A full badge system designed to keep citizens engaged long-term:
 
 🥉 Bronze Reporter — First issue reported
+
 🥈 Silver Watcher — 10+ verified reports
+
 🥇 Gold Guardian — 25+ verified reports
+
 💎 Platinum Champion — Top contributor city-wide
+
 🔥 Streak Star — Consistent weekly reporting
+
 ✅ Verified Voice — Consistently accurate, trusted reports
 
 🌐 Built for Bharat — Multi-Language Access
@@ -134,11 +140,17 @@ cd backend
 npm install
 
 Create a .env file inside backend/:
+
 PORT=5000
+
 MONGODB_URI=your_mongodb_connection_string
+
 JWT_SECRET=your_jwt_secret
+
 GEMINI_API_KEY=your_google_gemini_api_key
+
 npm start
+
 
 3️⃣ Frontend Setup
 cd frontend
