@@ -2,7 +2,8 @@ import React, { createContext, useState, useEffect } from 'react';
 
 export const GlobalContext = createContext();
 
-const API_BASE_URL = 'http://localhost:5000/api';
+const API_BASE_URL = 'https://trash2task.onrender.com/api';
+
 
 export const GlobalProvider = ({ children }) => {
   const [user, setUser] = useState(() => {
