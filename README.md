@@ -2,6 +2,7 @@
 "Bridging the Gap Between Citizens and Civic Action — One Report at a Time"
 
 🔗 Live Demo: https://trash2-task.vercel.app
+
 📦 Repository: https://github.com/anushka853/Trash2Task
 
 👩‍💻 Solo Project — Built End to End
@@ -158,8 +159,11 @@ npm install
 npm run dev
 
 🌐 Runs on http://localhost:5173 by default, connected live to the backend API.
+
 ⸻
+
 🌍 Experience It Live
+
 👉 https://trash2-task.vercel.app
 ⸻
 🛣️ What's Next
@@ -187,4 +191,5 @@ Got an idea to make cities smarter? Contributions are welcome!
 📄 License
 Open-source under the MIT License. Use it, build on it, make your city better.
 ⸻
+
 🌱 Every report is a small act of change. CivicPulse AI turns thousands of small acts into a cleaner, smarter city.
