@@ -23,7 +23,7 @@ This isn't just a complaint app. It's a civic engagement engine — built to mak
 ✨ Features That Set It Apart
 
 🤖 AI-Powered Smart Reporting
-Snap a photo. Google Gemini AI instantly detects, classifies, and routes the issue — no manual forms, no friction.
+Snap a photo or record a video -- Google Gemini AI instantly detects, classifies, and routes the issue — no manual forms, no friction.
 
 🏷️ Intelligent Auto-Categorization
 Garbage, potholes, streetlights, waterlogging — every issue auto-sorted for the right team, instantly.
