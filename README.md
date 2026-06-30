@@ -119,13 +119,20 @@ Real-time performance metrics, resolution trends, and city health insights — p
 
 ⸻
 🗂️ Project Structure
+
 Trash2Task/
+
 ├── backend/          # Express API, models, routes, auth, AI integration
+
 ├── frontend/         # React + Vite client application
+
 ├── .gitignore
+
 └── README.md
 ⸻
+
 🚀 Getting Started
+
 ✅ Prerequisites
 
 Node.js (v18+ recommended)
